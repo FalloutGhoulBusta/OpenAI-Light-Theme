@@ -7,27 +7,28 @@ A clean, modern light theme for Sublime Text inspired by OpenAI's design aesthet
 Here's a visual representation of the theme's most commonly seen colors:
 
 ### Base Colors
-- Background: Clean white (#ffffff)
-- Foreground: Dark grey (#1e1e1e)
-- Accent: OpenAI blue (#007AFF)
+- Background: `#ffffff` (Clean white)
+- Foreground: `#1e1e1e` (Dark grey)
+- Accent: `#007AFF` (OpenAI blue)
 
 ### Code Colors
-- Keywords: Red (#d73a49) - **Keywords**
-- Strings: Deep blue (#032f62) - "Strings"
-- Variables: Blue (#005cc5) - variableName
-- Comments: Light grey (#6a737d) - *This is a comment*
-### Syntax Highlighting
-- Comments: Light grey with italic font
-- Keywords: Red (#d73a49) with bold font
-- Strings: Deep blue (#032f62)
-- Variables and Functions: Blue (#005cc5)
-- Numbers: Blue (#005cc5)
-- Markdown Headings: Blue with bold font
+- Keywords: `#d73a49` (Red) - **Keywords**
+- Strings: `#032f62` (Deep blue) - "Strings"
+- Variables: `#005cc5` (Blue) - variableName
+- Comments: `#6a737d` (Light grey) - *This is a comment*
+
+### Markdown Colors
+- Headings: `#005cc5` (Blue) - # Heading
+- Lists: `#d73a49` (Red) - * Bullet point
+- Blockquotes: `#6a737d` (Light grey) - > Blockquote
+- Inline code: `#032f62` (Deep blue) - `inline code`
 
 ### UI Elements
-- Caret: OpenAI blue (#007AFF)
-- Selection: Light blue (#e5f0ff)
-- Line Highlight: Very light grey (#f5f5f5)
+- Selection: `#e5f0ff` (Light blue)
+- Caret: `#007AFF` (OpenAI blue)
+- Line Highlight: `#f5f5f5` (Very light grey)
+
+> **Note:** The colors shown here are how they will appear in Sublime Text when using this theme. The actual appearance may vary slightly depending on your display settings.
 - Gutter: Light grey (#f0f0f0)
 - Gutter Foreground: Medium grey (#999999)
 
