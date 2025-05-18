@@ -27,8 +27,8 @@ Here's a visual representation of the theme's most commonly seen colors:
 ![Selection](https://img.shields.io/badge/selection-e5f0ff?color=e5f0ff&style=flat-square)
 ![Caret](https://img.shields.io/badge/caret-007AFF?color=007AFF&style=flat-square)
 ![Line Highlight](https://img.shields.io/badge/line%20highlight-f5f5f5?color=f5f5f5&style=flat-square)
-- Gutter: Light grey (#f0f0f0)
-- Gutter Foreground: Medium grey (#999999)
+![Gutter](https://img.shields.io/badge/gutter-f0f0f0?color=f0f0f0&style=flat-square)
+![Gutter Foreground](https://img.shields.io/badge/gutter%20foreground-999999?color=999999&style=flat-square)
 
 ## Installation
 
