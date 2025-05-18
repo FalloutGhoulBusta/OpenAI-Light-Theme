@@ -13,6 +13,40 @@ The OpenAI Light Theme is designed to provide a professional, modern look while 
 
 The theme maintains good contrast ratios while providing a clean, modern aesthetic that's easy on the eyes. It's perfect for developers who prefer light themes but want to maintain visual distinction between different code elements and markdown formatting.
 
+## Color Visualization
+
+Here's a visual representation of the theme's color scheme:
+
+### Base Colors
+- Background: `#ffffff` (White)
+- Foreground: `#1e1e1e` (Dark Grey)
+- Accent: `#007AFF` (OpenAI Blue)
+
+### Syntax Colors
+- Comments: `#6a737d` (Light Grey) - *This is a comment*
+- Keywords: `#d73a49` (Red) - **Keywords**
+- Strings: `#032f62` (Deep Blue) - "Strings"
+- Variables: `#005cc5` (Blue) - variableName
+- Numbers: `#005cc5` (Blue) - 12345
+- Functions: `#6f42c1` (Purple) - functionName()
+
+### Markdown Colors
+- Headings: `#005cc5` (Blue) - # Heading
+- Bold: **Bold text**
+- Italic: *Italic text*
+- Underline: <u>Underlined text</u>
+- Quotes: `#6a737d` (Grey) - > Blockquote
+- Lists: `#d73a49` (Red) - * Bullet point
+- Code: `#032f62` (Deep Blue) - `inline code`
+- Links: `#005cc5` (Blue) - [Link](https://example.com)
+
+### UI Elements
+- Caret: `#007AFF` (OpenAI Blue)
+- Selection: `#e5f0ff` (Light Blue)
+- Line Highlight: `#f5f5f5` (Very Light Grey)
+- Gutter: `#f0f0f0` (Light Grey)
+- Gutter Foreground: `#999999` (Medium Grey)
+
 ## Features
 
 - Clean white background with subtle grey accents
