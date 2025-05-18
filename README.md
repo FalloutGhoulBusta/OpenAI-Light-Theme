@@ -7,28 +7,26 @@ A clean, modern light theme for Sublime Text inspired by OpenAI's design aesthet
 Here's a visual representation of the theme's most commonly seen colors:
 
 ### Base Colors
-- Background: `#ffffff` (Clean white)
-- Foreground: `#1e1e1e` (Dark grey)
-- Accent: `#007AFF` (OpenAI blue)
+![Background](https://img.shields.io/badge/background-ffffff?color=ffffff&style=flat-square)
+![Foreground](https://img.shields.io/badge/foreground-1e1e1e?color=1e1e1e&style=flat-square)
+![Accent](https://img.shields.io/badge/accent-007AFF?color=007AFF&style=flat-square)
 
 ### Code Colors
-- Keywords: `#d73a49` (Red) - **Keywords**
-- Strings: `#032f62` (Deep blue) - "Strings"
-- Variables: `#005cc5` (Blue) - variableName
-- Comments: `#6a737d` (Light grey) - *This is a comment*
+![Keywords](https://img.shields.io/badge/keywords-d73a49?color=d73a49&style=flat-square)
+![Strings](https://img.shields.io/badge/strings-032f62?color=032f62&style=flat-square)
+![Variables](https://img.shields.io/badge/variables-005cc5?color=005cc5&style=flat-square)
+![Comments](https://img.shields.io/badge/comments-6a737d?color=6a737d&style=flat-square)
 
 ### Markdown Colors
-- Headings: `#005cc5` (Blue) - # Heading
-- Lists: `#d73a49` (Red) - * Bullet point
-- Blockquotes: `#6a737d` (Light grey) - > Blockquote
-- Inline code: `#032f62` (Deep blue) - `inline code`
+![Headings](https://img.shields.io/badge/headings-005cc5?color=005cc5&style=flat-square)
+![Lists](https://img.shields.io/badge/lists-d73a49?color=d73a49&style=flat-square)
+![Blockquotes](https://img.shields.io/badge/blockquotes-6a737d?color=6a737d&style=flat-square)
+![Inline Code](https://img.shields.io/badge/inline%20code-032f62?color=032f62&style=flat-square)
 
 ### UI Elements
-- Selection: `#e5f0ff` (Light blue)
-- Caret: `#007AFF` (OpenAI blue)
-- Line Highlight: `#f5f5f5` (Very light grey)
-
-> **Note:** The colors shown here are how they will appear in Sublime Text when using this theme. The actual appearance may vary slightly depending on your display settings.
+![Selection](https://img.shields.io/badge/selection-e5f0ff?color=e5f0ff&style=flat-square)
+![Caret](https://img.shields.io/badge/caret-007AFF?color=007AFF&style=flat-square)
+![Line Highlight](https://img.shields.io/badge/line%20highlight-f5f5f5?color=f5f5f5&style=flat-square)
 - Gutter: Light grey (#f0f0f0)
 - Gutter Foreground: Medium grey (#999999)
 
